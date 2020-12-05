@@ -12,8 +12,6 @@ Under the hood:
 
 ### Installation
 
-Install the dependencies and start.
-
 ```sh
 $ git clone https://github.com/marcel-tabara/react-storeon-ts-parcel.git
 $ cd react-storeon-ts-parcel

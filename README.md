@@ -8,7 +8,7 @@ Under the hood:
 - [Storeon/Router](https://github.com/storeon/router)
 - [Parcel](https://github.com/parcel-bundler/parcel)
 
-### Installation
+### Installation:
 
 ```sh
 $ git clone https://github.com/marcel-tabara/react-storeon-ts-parcel.git

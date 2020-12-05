@@ -2,8 +2,6 @@
 
 Under the hood:
 
----
-
 - [React](https://preactjs.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Storeon](https://github.com/storeon/storeon)
